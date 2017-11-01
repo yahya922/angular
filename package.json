@@ -1,0 +1,25 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "traingin",
+  "main": "index.html",
+  "scripts": {
+  "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite":"lite-server"
+  },
+  "author": "yahya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahya922/angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yahya922/angular/issues"
+  },
+  "homepage": "https://github.com/yahya922/angular#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
